@@ -1,0 +1,21 @@
+{
+  "DisplayName": "LoginExceptionHandlers",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "Send_Email",
+      "DisplayName": "uipath-google-gmail",
+      "Category": null,
+      "Tooltip": "Send Email",
+      "Placeholder": null,
+      "Widget": "Connection",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 1,
+      "DataSourceItems": null
+    }
+  ]
+}

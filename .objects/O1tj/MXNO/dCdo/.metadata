@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Nova guia",
+  "Type": "Screen",
+  "Id": "dCdo1_RcIUiaosBDeKq8YQ",
+  "Reference": "XmLGEAuZnECZIYjt-RbWqw/dCdo1_RcIUiaosBDeKq8YQ",
+  "ParentRef": "XmLGEAuZnECZIYjt-RbWqw/MXNO3ixTF0y0tRfnBBeZIg",
+  "Created": "2025-03-15T18:46:02.8331319Z",
+  "Updated": "2025-03-15T18:46:02.8331319Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

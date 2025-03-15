@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="StsXgkUFE0eL4JHMvLU7AQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/105299457" CVScreenId="974f6e96-a722-43f9-b59e-967db433dfb9" DesignTimeRectangle="819, 499, 206, 34" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname=' Download Check Request' tag='BUTTON' type='button' class='btn btn-primary' check:innerText='Download Check Request' /&gt;" Guid="c95ac279-1bb8-44ff-a4be-4531308d88e3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="974f6e96-a722-43f9-b59e-967db433dfb9" DesignTimeRectangle="819, 450, 373, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H4' type='' class='' aaname='Check Request' check:innerText='Check Request' /&gt;" Guid="e51d4383-825e-4cba-b593-7dbb445ca435" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4a0efb50c9e22a13bd16f97e355fc541.png" xmlns="">0B5929eIR_ki0-GhtGD5n1A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
