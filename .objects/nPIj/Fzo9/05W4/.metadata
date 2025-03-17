@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Item Information",
+  "Type": "Screen",
+  "Id": "05W4Abk80ESuGX3H8IzwLg",
+  "Reference": "XmLGEAuZnECZIYjt-RbWqw/05W4Abk80ESuGX3H8IzwLg",
+  "ParentRef": "XmLGEAuZnECZIYjt-RbWqw/Fzo9fRScyUGBuv1-luG5SA",
+  "Created": "2025-03-17T13:18:37.974665Z",
+  "Updated": "2025-03-17T13:19:37.9628709Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
